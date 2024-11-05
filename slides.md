@@ -28,6 +28,8 @@ Longer intorduction tomorrow
 
 1. Prompt Techniques
 2. Learning vs Solving
+3. Using AI as a Learning Buddy
+4. AI for Project Planning
 
 ---
 
@@ -562,3 +564,154 @@ Could you ask me guiding questions that will:
 - Process > Result
 - Questions > Answers
 - Practice > Theory
+
+---
+
+## 3. Using AI as a Learning Buddy
+
+From understanding to mastery
+
+---
+
+### Breaking Down the Problem
+
+Instead of diving in, ask AI to:
+
+- Analyze the requirements
+- Identify key components
+- List necessary skills/concepts
+- Suggest a learning sequence
+
+Example:
+"Can you help me break down this assignment into smaller,
+manageable parts and identify what I need to learn for each part?"
+
+---
+
+### Step-by-Step Solution
+
+For each component:
+
+1. Explain the concept
+2. Show a basic example
+3. Guide through implementation
+4. Verify understanding
+
+Example:
+"Let's focus on the form validation part first.
+Could you explain the basic concept, then guide me
+through implementing it step by step?"
+
+---
+
+### Debugging & Understanding
+
+When stuck:
+
+- Share your code
+- Explain what you expected
+- Describe what's happening instead
+- Ask for hints before solutions
+
+Example:
+"My form validation isn't working. Here's my code and what I expected.
+Can you help me understand where my logic might be wrong?"
+
+---
+
+### Making Small Changes
+
+Once it works:
+
+"Now that this works, could we:
+
+- Add another field?
+- Change the validation rules?
+- Improve the user feedback?
+- Make it more accessible?
+
+Help me understand how each change affects the code."
+
+---
+
+### Creating Similar Problems
+
+Build confidence through practice:
+
+"Could you create a similar but different assignment that:
+
+- Uses the same concepts
+- Has slightly different requirements
+- Requires small modifications to the solution
+- Helps me practice what I learned?"
+
+---
+
+### Practice Loop
+
+👉 Understand the problem
+👉 Break it down
+👉 Solve step by step
+👉 Debug if needed
+👉 Make changes
+👉 Try similar problems
+🔄 Repeat until confident
+
+---
+
+### Example Learning Loop
+
+Learning Forms:
+
+1. Start: Basic contact form
+2. Add: Email validation
+3. Change: Add phone field
+4. Modify: Different validation rules
+5. Create: Registration form
+6. Challenge: Multi-step form
+
+---
+
+### Signs of Understanding
+
+You know you've mastered it when you can:
+
+- Explain it to others
+- Solve similar problems alone
+- Modify solutions confidently
+- Debug issues independently
+- Know why things work
+
+---
+
+### Real Example
+
+Starting Point:
+"Create a simple to-do list"
+
+Progressive Learning:
+
+1. Basic list with add/remove
+2. Add completion status
+3. Include due dates
+4. Add categories
+5. Implement filtering
+6. Add local storage
+
+---
+
+### Practice Time!
+
+Take this simple requirement:
+"Create a photo gallery"
+
+Write a prompt that:
+
+- Asks for it to be broken down
+- Requests step-by-step guidance
+- Includes plans for modifications
+- Suggests similar practice projects
+
+(15 minutes)
+
+---
