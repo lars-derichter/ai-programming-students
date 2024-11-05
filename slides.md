@@ -1,4 +1,4 @@
-# AI for Programming Students
+# Using AI (LLM) as a Programming Student
 
 ---
 
