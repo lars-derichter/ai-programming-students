@@ -29,7 +29,8 @@ Longer intorduction tomorrow
 1. Prompt Techniques
 2. Learning vs Solving
 3. Using AI as a Learning Buddy
-4. AI for Project Planning(as a Student)
+4. Learning Checkpoints
+5. AI for Project Planning(as a Student)
 
 ---
 
@@ -716,7 +717,183 @@ Write a prompt that:
 
 ---
 
-## 4. AI for Project Planning(as a Student)
+## 4. Learning Checkpoints
+
+Verifying Understanding & Progress
+
+---
+
+### Types of Checkpoints
+
+1. Knowledge Checkpoints
+2. Implementation Checkpoints
+3. Code Review Checkpoints
+4. Problem-Solving Checkpoints
+5. Integration Checkpoints
+
+---
+
+### Knowledge Checkpoints
+
+Ask AI to verify understanding:
+
+"Can you quiz me on:
+
+- CSS Flexbox concepts I'll need
+- JavaScript array methods
+- Form validation principles
+- Basic DOM manipulation"
+
+---
+
+Example Questions:
+
+- "Explain how flexbox direction works"
+- "What's the difference between map and forEach?"
+- "Why do we prevent form default behavior?"
+
+---
+
+### Implementation Checkpoints
+
+Mini-challenges to verify skills:
+
+"Before building the blog comments:
+
+1. Create a simple form ✓
+2. Add basic validation ✓
+3. Display submitted data ✓
+4. Style the components ✓
+5. Handle error states □"
+
+---
+
+### Code Review Checkpoints
+
+Regular code checks:
+
+"Review my code for:
+
+- Best practices
+- Common pitfalls
+- Accessibility issues
+- Performance concerns
+- Code organization"
+
+---
+
+Example:
+
+```javascript
+// My current code
+const addComment = () => {
+  const comment = document.getElementById("comment").value;
+  comments.push(comment);
+  displayComments();
+};
+```
+
+---
+
+### Problem-Solving Checkpoints
+
+Scenario challenges:
+
+"Now that I've built the comment feature:
+
+1. How would I add user names?
+2. What if I need timestamp sorting?
+3. How could I add comment replies?
+4. What about comment editing?"
+
+---
+
+### Integration Checkpoints
+
+Combining features:
+
+Blog Project Example:
+
+1. ✓ Create blog post layout
+2. ✓ Add comment form
+3. □ Combine posts + comments
+4. □ Add user interaction
+5. □ Implement sorting
+
+---
+
+### Real Project Example: Blog Comments
+
+Knowledge Checkpoints:
+
+- Explain DOM event handling
+- Describe data storage options
+- List validation requirements
+
+---
+
+Implementation Checkpoints:
+
+- Basic comment form works
+- Data correctly stored
+- Comments display properly
+- Validation functioning
+
+---
+
+Code Quality Checkpoints:
+
+- Functions are single-purpose
+- Error handling exists
+- Code is well-commented
+- DRY principles applied
+
+---
+
+### Creating Your Own Checkpoints
+
+For each feature, ask:
+
+1. What concepts must I understand?
+2. What can I build to prove it?
+3. How can I test edge cases?
+4. What modifications show mastery?
+5. How does it fit with other features?
+
+---
+
+### Using AI for Verification
+
+"I've reached checkpoint 3. Could you:
+
+1. Review my understanding of concepts
+2. Verify my implementation
+3. Suggest improvements
+4. Point out blind spots
+5. Recommend next steps"
+
+---
+
+### Progress Tracking Template
+
+Feature: Comment System
+
+- [ ] Understand form handling
+  - [ ] Create test form
+  - [ ] Explain event handling
+  - [ ] Handle validation
+- [ ] Build basic version
+  - [ ] Add comment works
+  - [ ] Display comments works
+  - [ ] Validation works
+- [ ] Enhance functionality
+  - [ ] Add timestamps
+  - [ ] Add sorting
+  - [ ] Add replies
+
+---
+
+## 5. AI for Project Planning(as a Student)
 
 From Requirements to Learning Roadmap
 
