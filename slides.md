@@ -250,6 +250,14 @@ Remember:
 
 ---
 
+### 🚸 Tip: use memory
+
+- Put your context in ChatGPT Custom Instructions or claude.ai project
+- Keep conversations with good responses, and continue using them (with Claude it is important not to get too long conversations)
+- Save prompts that have worked really well for you in a text file
+
+---
+
 ## 2. Learning vs Just Getting Answers
 
 How to use AI to really understand things
@@ -297,6 +305,7 @@ Good questions to ask:
 - "Could you guide me step by step?"
 - "Why is this better than other ways?"
 - "What mistakes should I avoid?"
+- "Explain this code line by line"
 
 ---
 
@@ -1131,6 +1140,12 @@ After getting your plan:
 ---
 
 # Check with University policy what you can upload and use!!!
+
+---
+
+### Follow-up
+
+Try out custom GPT’s or better yet ask your teachers to create custom GPT tailored to their course.
 
 ---
 
