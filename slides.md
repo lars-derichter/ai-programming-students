@@ -99,7 +99,7 @@ Be specific about what you need
 
 Tell AI how to present the solution
 
-Example:
+Example:  
 "Please show me:
 
 - HTML first
@@ -113,7 +113,7 @@ Example:
 
 Tell AI who will use your code
 
-Example:
+Example:  
 "This needs to work for:
 
 - Phone users
@@ -126,7 +126,7 @@ Example:
 
 Be clear about what you need (and don't need)
 
-Example:
+Example:  
 "For now, I just need:
 
 - The form layout
@@ -140,7 +140,7 @@ Example:
 
 Ask AI to break down complex tasks
 
-Example:
+Example:  
 "Can you help me build this form by:
 
 1. First showing the basic HTML
@@ -332,7 +332,7 @@ Try:
 
 ### Practice Time!
 
-Make this request better:
+Make this request better:  
 "Write a function that adds tax to a price"
 
 Change it to focus on learning:
@@ -365,7 +365,8 @@ Please point out common mistakes I should avoid!"
 ### Hardcore Learning Mode: Socratic Method
 
 Want to really understand something?
-Tell AI:
+
+Tell AI:  
 "You are like a Socratic teacher: please don't give me answers right away.
 Instead, ask me questions that help me
 figure it out myself."
@@ -380,7 +381,7 @@ vs.
 
 ### Socratic, Question-Based Learning
 
-"I'm learning CSS layout. Instead use the Socratic teaching method an instead of telling me how,
+"I'm learning CSS layout. Use the Socratic teaching method and instead of telling me how,
 you ask me questions that help me discover
 how to center elements by myself?"
 
@@ -478,6 +479,8 @@ fruits.push("grape");
 fruits.pop();
 ```
 
+---
+
 Think:
 
 - Making shopping list
@@ -557,17 +560,17 @@ Please explain any new words you use!"
 
 After getting different explanations:
 
-1. Try explaining it yourself
+1. Try explaining it yourself and ask AI to check your answer
 2. Make your own examples
 3. Mix different ways of understanding
 4. Try new situations
-5. Teach someone else
+5. Teach someone else (teaching is the best way to learn, I am always learning 😊)
 
 ---
 
 ## 4. Practice with AI
 
-Using AI as Your Learning Partner
+Using AI as Your Sparring Partner
 
 ---
 
@@ -582,7 +585,7 @@ Ask AI to help you:
 
 Example:
 "Can you help me break this project into
-small pieces I can learn one at a time?"
+small pieces so I can learn one at a time?"
 
 ---
 
@@ -640,9 +643,8 @@ Help me understand each change!"
 Ask AI to:
 "Could you make a similar but different exercise that:
 
-- Uses the same ideas
+- Uses the same programming concepts
 - Has slightly different needs
-- Needs small changes
 - Helps me practice more?"
 
 ---
@@ -696,7 +698,7 @@ Write a request that:
 - Plans future changes
 - Suggests practice projects
 
-(15 minutes)
+(5 minutes)
 
 ---
 
@@ -1125,6 +1127,10 @@ After getting your plan:
 4. Begin with smallest part
 5. Track your progress
 6. Check progress regularly
+
+---
+
+# Check with University policy what you can upload and use!!!
 
 ---
 
