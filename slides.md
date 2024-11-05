@@ -5,14 +5,14 @@
 ## Who Am I?
 
 - Lars De Richter
-- Teach programming at Thomas More University of Applied Sciences in Belgium (Antwerp)
+- I Teach programming at Thomas More University of Applied Sciences in Belgium (Antwerp)
 
 ---
 
 ## Why you should come to Belgium?
 
 - Bad weather (but not as bad as in Finland)
-- Quiet, sturdy people (but not as quiet as Finns)
+- Quiet, sturdy people (but not as quiet or sturdy as Fins)
 - Very many people (11mio) in a very small country (2/3d Estonia)
 - The best beer in the world (and cheap)
 - The best chocolate in the world
@@ -53,7 +53,7 @@ Longer intorduction tomorrow
 - General Context
 - Role
 - Task
-- Format
+- Format (when needed)
 - Audience
 - Scope
 - Steps (when needed)
@@ -83,7 +83,7 @@ please help me understand..."
 writing clean, maintainable code..."
 
 "Take the role of an accessibility expert who helps developers
-make their websites WCAG compliant..."
+make their websites compliant with EU Guidelines..."
 
 ---
 
@@ -278,15 +278,7 @@ Improve this prompt:
 
 ❌ "How do I make a photo gallery?"
 
-Use:
-
-- General Context
-- Role
-- Task
-- Format
-- Audience
-- Scope
-- Steps
+Use all the parts of a good prompt.
 
 (5 minutes)
 
@@ -297,6 +289,8 @@ Use:
 "As a senior front-end developer with expertise in responsive design and image optimization,
 
 I'm a first-year web development student working on my photography portfolio. I know HTML, basic CSS (including flexbox and grid), and basic JavaScript (loops, functions).
+
+---
 
 I need to create a responsive photo gallery that:
 
@@ -389,11 +383,13 @@ Treat AI as a (somewhat dumb) assistant that always tries to do its hardest to h
 
 ## 2. Learning vs Solving
 
+Getting AI to Help You Understand
+
 ---
 
 ### Two Approaches
 
-❌ "Give me the solution"
+❌ "Give me the solution"  
 ✅ "Help me learn how to solve this"
 
 ---
@@ -434,10 +430,10 @@ Please check my understanding at each step."
 
 ### Interactive Learning Example
 
-Instead of:
+Instead of:  
 ❌ "Code a form validation function"
 
-Try:
+Try:  
 ✅ "I'm learning form validation. Could you:
 
 1. Explain what we need to validate and why
@@ -449,10 +445,10 @@ Try:
 
 ### Debugging Approach
 
-Instead of:
+Instead of:  
 ❌ "Fix this code"
 
-Try:
+Try:  
 ✅ "This code isn't working as expected. Could you:
 
 1. Help me understand what each part does
@@ -462,9 +458,9 @@ Try:
 
 ---
 
-### Practice Makes Perfect
+### Practice
 
-Turn this request:
+Turn this request:  
 "Create a function that calculates the total price with tax"
 
 Into a learning-focused prompt that:
@@ -500,7 +496,7 @@ When you really want to learn
 
 ### The Socratic Approach
 
-Tell AI:
+Tell AI:  
 "Please use the Socratic method. Don't give me direct answers.
 Instead, guide me with questions that will help me discover
 the solution myself."
@@ -516,7 +512,7 @@ vs.
 ### Socratic Version
 
 "I'm learning CSS layout. Could you use the Socratic method to help me
-discover how to center a div? Ask me questions that will guide my thinking. Under no circumstances give me the straight-up."
+discover how to center a div? Ask me questions that will guide my thinking. Under no circumstances give me the answers."
 
 AI might respond:
 
@@ -526,24 +522,9 @@ AI might respond:
 
 ---
 
-### Socratic Learning Example
-
-Instead of:
-❌ "How do I make this responsive?"
-
-Try:
-✅ "I want to understand responsive design principles.
-Could you ask me guiding questions that will:
-
-- Help me analyze my current layout
-- Lead me to discover breakpoints
-- Guide me to find solutions myself"
-
----
-
 ### Exercise
 
-- Ask for the next topic on your course and try Socratic method for 10 minutes.
+- Ask for the next topic on your course and try the Socratic method for 10 minutes.
 - What have you learned?
 - How was the experience?
 
@@ -625,10 +606,126 @@ Promise = Restaurant Order
 
 Instead of:
 
-````javascript
-fetch('api/data')
- .then(response => response.json())
- .catch(error => console.log(error))
+```javascript
+fetch("api/data")
+  .then((response) => response.json())
+  .catch((error) => console.log(error));
+```
+
+Think:
+
+- Asking waiter for menu (fetch)
+- Waiter brings menu (then)
+- Kitchen is closed (catch)
+
+---
+
+### Visual Learning
+
+(Unfortunately this does not work very well yet, by I expect the models will get better at this)
+
+Ask for:
+
+- Diagrams
+- Flowcharts
+- Mind maps
+- Process visualizations
+- State transitions
+
+Example:
+"Can you draw a flowchart showing how CSS positioning works?"
+
+---
+
+### Breaking Down Complex Topics
+
+"I don't understand CSS Grid. Could you:
+
+1. Compare it to something I know (like tables)
+2. Show a visual layout
+3. Provide basic examples
+4. Explain common patterns
+5. Give me practice exercises"
+
+---
+
+### From Simple to Complex
+
+Start with:
+
+```css
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+```
+
+Build to:
+
+```css
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+```
+
+---
+
+### Practice: Getting Alternatives
+
+Take this concept:
+"JavaScript Event Bubbling"
+
+Write a prompt asking for:
+
+- Real-world analogy
+- Visual explanation
+- Code example
+- Interactive demo
+- Practice exercises
+
+---
+
+### Example Solution
+
+"I'm learning about JavaScript Event Bubbling.
+Could you help me understand it through multiple approaches:
+
+1. Explain it using a real-world analogy (like something familiar)
+2. Create a visual representation showing how events move through DOM
+3. Show a simple code example, then a more complex one
+4. Suggest an interactive way to see it in action
+5. Give me exercises that demonstrate:
+   - Basic bubbling
+   - Stopping bubbling
+   - Event delegation
+   - Common use cases
+
+Please explain each new term you introduce."
+
+---
+
+### Making It Stick
+
+After getting different explanations:
+
+1. Explain it back to AI
+2. Create your own examples
+3. Combine different perspectives
+4. Test understanding with new scenarios
+5. Teach it to someone else
+
+---
+
+### Key Takeaways
+
+- Don't stick to one explanation
+- Build connections between concepts
+- Start simple, add complexity
+- Practice with variations
+- Create your own examples
+- Test understanding different ways
 
 ---
 
@@ -855,7 +952,7 @@ const addComment = () => {
   comments.push(comment);
   displayComments();
 };
-````
+```
 
 ---
 
