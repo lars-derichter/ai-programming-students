@@ -83,9 +83,9 @@ make their websites WCAG compliant..."
 
 Clearly states what you want to achieve
 
-Example:
-❌ "Make a form"
-✅ "I need to create a contact form that collects a visitor's name,
+Example:  
+❌ "Make a form"  
+✅ "I need to create a contact form that collects a visitor's name,  
 email, and message. The form should validate that the email is properly
 formatted before submission."
 
@@ -158,8 +158,8 @@ Example:
 </div>
 ```
 
-❌ No context about the problem
-❌ No information about desired outcome
+❌ No context about the problem  
+❌ No information about desired outcome  
 ❌ No mention of skill level
 
 ---
@@ -177,8 +177,8 @@ Can you explain what I need to add and why it works?"
 </div>
 ```
 
-✅ Mentions learning context
-✅ States the problem
+✅ Mentions learning context  
+✅ States the problem  
 ✅ Asks for explanation
 
 ---
@@ -187,8 +187,8 @@ Can you explain what I need to add and why it works?"
 
 "Write JavaScript code for a todo list"
 
-❌ No specification of features
-❌ No mention of code complexity
+❌ No specification of features  
+❌ No mention of code complexity  
 ❌ No indication of current knowledge
 
 ---
@@ -204,8 +204,8 @@ Can you help me create a simple todo list where I can:
 Please use basic DOM manipulation without advanced concepts.
 Explain each part of the code so I can learn from it."
 
-✅ States knowledge level
-✅ Specifies features
+✅ States knowledge level  
+✅ Specifies features  
 ✅ Asks for explanations
 
 ---
@@ -352,6 +352,12 @@ Please guide me through:
 
 - When the answer is not exactly what you want, tell AI what is wrong with it.
 - If you have a conversation with a good answer, reuse it to create similar answers.
+
+---
+
+### 🚸 Tip: Custom instructions
+
+Add some of this to ChatGPT's custom instructions or create a Claude.ai project with custom instructions.
 
 ---
 
