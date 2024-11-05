@@ -27,11 +27,15 @@ Longer intorduction tomorrow
 ## Topics
 
 1. Prompt Techniques
-2. AI as Your Study Buddy
+2. Learning vs Solving
 
 ---
 
-## Why Context Matters
+## 1. Prompt Techniques
+
+---
+
+### Why Context Matters
 
 - AI doesn't know what you know
 - AI doesn't know what you want
@@ -376,3 +380,177 @@ Treat AI as a (somewhat dumb) assistant that always tries to do its hardest to h
 5. Ask for explanations to learn
 6. Refine and repeat
 7. Stay critical
+
+---
+
+## 2. Learning vs Solving
+
+---
+
+### Two Approaches
+
+❌ "Give me the solution"
+✅ "Help me learn how to solve this"
+
+---
+
+### Example: Bad Approach
+
+"Write code for a responsive navigation menu with a hamburger button"
+
+- Gets you a solution
+- But what have you learned?
+- Can you modify it later?
+- Will you understand similar problems?
+
+---
+
+### Example: Learning Approach
+
+"I'm learning about responsive navigation menus. Could you:
+
+1. First explain the key components needed
+2. Guide me through the basic HTML structure
+3. Help me understand the CSS principles involved
+4. Show me how the JavaScript part works
+
+Please check my understanding at each step."
+
+---
+
+### Prompt Elements for Learning
+
+- "Can you explain the concept first?"
+- "What are the important principles to understand?"
+- "Could you guide me step by step?"
+- "Why does this approach work better than alternatives?"
+- "What common mistakes should I watch out for?"
+
+---
+
+### Interactive Learning Example
+
+Instead of:
+❌ "Code a form validation function"
+
+Try:
+✅ "I'm learning form validation. Could you:
+
+1. Explain what we need to validate and why
+2. Show me a simple example for one field
+3. Let me try to write validation for the next field
+4. Review my attempt and suggest improvements"
+
+---
+
+### Debugging Approach
+
+Instead of:
+❌ "Fix this code"
+
+Try:
+✅ "This code isn't working as expected. Could you:
+
+1. Help me understand what each part does
+2. Guide me in finding the problem
+3. Explain why the error occurs
+4. Suggest how I might fix it myself"
+
+---
+
+### Practice Makes Perfect
+
+Turn this request:
+"Create a function that calculates the total price with tax"
+
+Into a learning-focused prompt that:
+
+- Asks for explanations
+- Breaks down the concept
+- Includes practice steps
+- Requests verification of understanding
+
+---
+
+### Sample Solution
+
+"I'm learning JavaScript functions and calculations.
+
+Could you help me understand how to create a function that calculates total price with tax by:
+
+1. First explaining the basic concepts involved (functions, parameters, calculations)
+2. Showing me a simple example with one fixed tax rate
+3. Guiding me to modify it for different tax rates
+4. Asking me questions to check my understanding
+5. Giving me similar small challenges to practice
+
+Please point out any common mistakes or best practices along the way."
+
+---
+
+### Hardcore: Socratic Method
+
+When you really want to learn
+
+---
+
+The Socratic Approach
+
+Tell AI:
+"Please use the Socratic method. Don't give me direct answers.
+Instead, guide me with questions that will help me discover
+the solution myself."
+
+---
+
+# Example: Regular Prompt
+
+"How do I center a div with CSS?"
+
+vs.
+
+# Socratic Version
+
+"I'm learning CSS layout. Could you use the Socratic method to help me
+discover how to center a div? Ask me questions that will guide my thinking."
+
+AI might respond:
+
+- "What properties do you know that affect element positioning?"
+- "How does the display property affect layout?"
+- "What have you tried so far?"
+
+---
+
+# Socratic Learning Example
+
+Instead of:
+❌ "How do I make this responsive?"
+
+Try:
+✅ "I want to understand responsive design principles.
+Could you ask me guiding questions that will:
+
+- Help me analyze my current layout
+- Lead me to discover breakpoints
+- Guide me to find solutions myself"
+
+---
+
+# Benefits of Socratic Learning
+
+- Deeper understanding
+- Better retention
+- Improved problem-solving skills
+- More engaging learning process
+- Builds confidence in your abilities
+
+---
+
+### Remember
+
+- Learning > Solution
+- Understanding > Copy-Pasting
+- Process > Result
+- Questions > Answers
+- Practice > Theory
