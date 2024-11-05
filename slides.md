@@ -512,7 +512,7 @@ vs.
 ### Socratic Version
 
 "I'm learning CSS layout. Could you use the Socratic method to help me
-discover how to center a div? Ask me questions that will guide my thinking."
+discover how to center a div? Ask me questions that will guide my thinking. Under no circumstances give me the straight-up."
 
 AI might respond:
 
@@ -534,6 +534,14 @@ Could you ask me guiding questions that will:
 - Help me analyze my current layout
 - Lead me to discover breakpoints
 - Guide me to find solutions myself"
+
+---
+
+### Exercise
+
+- Ask for the next topic on your course and try Socratic method for 10 minutes.
+- What have you learned?
+- How was the experience?
 
 ---
 
