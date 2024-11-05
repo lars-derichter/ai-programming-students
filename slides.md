@@ -28,9 +28,10 @@ Longer intorduction tomorrow
 
 1. Prompt Techniques
 2. Learning vs Solving
-3. Using AI as a Learning Buddy
-4. Learning Checkpoints
-5. AI for Project Planning(as a Student)
+3. Alternative Explanations
+4. Using AI as a Practice Buddy
+5. Learning Checkpoints
+6. AI for Project Planning (as a Student)
 
 ---
 
@@ -568,7 +569,70 @@ Could you ask me guiding questions that will:
 
 ---
 
-## 3. Using AI as a Learning Buddy
+## 3. Alternative Explanations
+
+Different Ways to Understand Complex Concepts
+
+---
+
+### Why Seek Different Explanations?
+
+- Everyone learns differently
+- Complex concepts need multiple angles
+- Different perspectives aid understanding
+- Helps build complete mental models
+- Reveals hidden connections
+
+---
+
+### Types of Alternative Explanations
+
+1. Visual Explanations
+2. Analogies & Metaphors
+3. Real-World Examples
+4. Code Examples
+5. Step-by-Step Breakdowns
+6. Interactive Demonstrations
+
+---
+
+### Example: JavaScript Promises
+
+Ask AI:
+"I'm struggling with JavaScript Promises. Could you explain them:
+
+1. Using a real-world analogy
+2. With a visual representation
+3. Using basic code examples
+4. Through step-by-step execution
+5. In relation to concepts I already know"
+
+---
+
+### Real-World Analogy Example
+
+Promise = Restaurant Order
+
+- Placing order = Creating Promise
+- Kitchen preparing = Promise pending
+- Food delivered = Promise resolved
+- Kitchen problem = Promise rejected
+- Order number = Promise object
+
+---
+
+### Code to Real Life
+
+Instead of:
+
+````javascript
+fetch('api/data')
+ .then(response => response.json())
+ .catch(error => console.log(error))
+
+---
+
+## 4. Using AI as a Practice Buddy
 
 From understanding to mastery
 
@@ -717,7 +781,7 @@ Write a prompt that:
 
 ---
 
-## 4. Learning Checkpoints
+## 5. Learning Checkpoints
 
 Verifying Understanding & Progress
 
@@ -791,7 +855,7 @@ const addComment = () => {
   comments.push(comment);
   displayComments();
 };
-```
+````
 
 ---
 
@@ -893,7 +957,7 @@ Feature: Comment System
 
 ---
 
-## 5. AI for Project Planning(as a Student)
+## 6. AI for Project Planning(as a Student)
 
 From Requirements to Learning Roadmap
 
