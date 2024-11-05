@@ -1,4 +1,18 @@
 .reveal .slides p,
+.reveal .slides ul,
+.reveal .slides ol,
 .reveal .slides li {
   text-align: left;
+}
+
+.reveal ol,
+.reveal dl,
+.reveal ul {
+  display: block;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  margin-bottom: 1em;
 }
