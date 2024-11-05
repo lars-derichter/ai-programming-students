@@ -494,7 +494,7 @@ When you really want to learn
 
 ---
 
-The Socratic Approach
+### The Socratic Approach
 
 Tell AI:
 "Please use the Socratic method. Don't give me direct answers.
@@ -503,13 +503,13 @@ the solution myself."
 
 ---
 
-# Example: Regular Prompt
+### Example: Regular Prompt
 
 "How do I center a div with CSS?"
 
 vs.
 
-# Socratic Version
+### Socratic Version
 
 "I'm learning CSS layout. Could you use the Socratic method to help me
 discover how to center a div? Ask me questions that will guide my thinking."
@@ -522,7 +522,7 @@ AI might respond:
 
 ---
 
-# Socratic Learning Example
+### Socratic Learning Example
 
 Instead of:
 ❌ "How do I make this responsive?"
@@ -537,7 +537,7 @@ Could you ask me guiding questions that will:
 
 ---
 
-# Benefits of Socratic Learning
+### Benefits of Socratic Learning
 
 - Deeper understanding
 - Better retention
