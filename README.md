@@ -1,4 +1,4 @@
-# AI for programming students
+# Using AI (LLM) as a Programming Student
 
 Slides for a workhop I gave in autumn 2024 to first year students at [Haaga Helia University of Applied Sciences](https://www.haaga-helia.fi/en).
 
