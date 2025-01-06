@@ -264,6 +264,18 @@ How to use AI to really understand things
 
 ---
 
+<!-- .slide: data-background-image="images/lazy.png" data-background-size="contain" -->
+
+## This way?
+
+---
+
+<!-- .slide: data-background-image="images/work.png" data-background-size="contain" -->
+
+## Or this?
+
+---
+
 ### Two Ways to Use AI
 
 ❌ "Just give me the code"  
