@@ -660,12 +660,12 @@ Ask AI to:
 
 ### Learning Loop
 
-👉 Understand the problem
-👉 Break it down
-👉 Solve step by step
-👉 Fix problems
-👉 Make changes
-👉 Try similar things
+👉 Understand the problem  
+👉 Break it down  
+👉 Solve step by step  
+👉 Fix problems  
+👉 Make changes  
+👉 Try similar things  
 🔄 Repeat until confident
 
 ---
@@ -758,7 +758,7 @@ Small tasks to check skills:
 2. Check input ✓
 3. Show data ✓
 4. Style it ✓
-5. Handle errors □"
+5. Handle errors ✓
 
 ---
 
