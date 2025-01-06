@@ -357,7 +357,7 @@ Change it to focus on learning:
 
 ### Sample Answer
 
-"I'm learning JavaScript functions and math operations.
+"I'm learning Java functions and math operations.
 
 Could you help me learn how to calculate prices with tax by:
 
@@ -456,7 +456,7 @@ Getting Help When You're Stuck
 ### Example: Learning About Arrays
 
 Ask AI:
-"I'm learning about JavaScript arrays. Could you:
+"I'm learning about Java ArrayLists. Could you:
 
 1. Compare them to something from real life
 2. Show a simple drawing/diagram
@@ -468,13 +468,13 @@ Ask AI:
 
 ### Real-Life Example
 
-JavaScript Array = Shopping List
+Java ArrayList = Student Register
 
-- Making list = Creating array
-- Adding items = Push method
-- Crossing off items = Pop method
-- Finding item = IndexOf method
-- Checking list length = Length property
+- Creating register = Creating array
+- Adding students = Adding to ArrayList
+- Removing graduates = Removing from ArrayList
+- Finding student = Using indexOf/contains
+- Checking class size = Using size() method
 
 ---
 
@@ -482,19 +482,19 @@ JavaScript Array = Shopping List
 
 Instead of:
 
-```javascript
-let fruits = ["apple", "banana", "orange"];
-fruits.push("grape");
-fruits.pop();
+```java
+ArrayList<String> students = new ArrayList<>();
+students.add("Alice");
+students.remove("Alice");
 ```
 
 ---
 
 Think:
 
-- Making shopping list
-- Adding new item
-- Removing last item
+- Creating class register
+- Adding new student
+- Removing graduated student
 
 ---
 
